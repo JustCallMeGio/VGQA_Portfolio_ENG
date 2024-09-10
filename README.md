@@ -11,12 +11,12 @@ Hello there, I am Giovanni Delucchi, Professional Programmer Analyst and passion
 
 - Acceso a mi [Linkedin](https://www.linkedin.com/in/giovanni-delucchi-poblete-5a647a169/) (Currently only in spanish)
 
-# Comunicación
+# Comunication
 - Discord : JustCallMeGio
 - E-Mail : giovanni@delucchi.net
            giovannidelucchi99@gmail.com
 
-# Experiencia
+# Experience
 
 - [The Eightfold Path](https://store.steampowered.com/app/1736620/The_Eightfold_Path/) PC | Xbox, 2024, Friendly Llama.
   
@@ -55,7 +55,7 @@ Playtesting and logic bug search. Randomizer mod codeveloped by the original gam
 - CERTIFICADO EN DISEÑO ÁGIL DE SISTEMAS, Inacap
 - CERTIFICADO EN DESARROLLADOR FULLSTACK, Inacap
 
-# Curses
+# Courses
 - Electivo de Tendencias del Sector Comercial I: Pruebas de Software, Inacap
 - Kick off your gaming QA career: basics of testing for games, Udemy
 - Desarrollo de Videojuegos 3D, Inacap
